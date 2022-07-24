@@ -1,0 +1,5 @@
+Building DAG of jobs...
+Relative file path './data/snakemake_test_data.csv' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Relative file path './plot/snakemake_test_plot.png' starts with './'. This is redundant and strongly discouraged. It can also lead to inconsistent results of the file-matching approach used by Snakemake. You can simply omit the './' for relative file paths.
+Nothing to be done (all requested files are present and up to date).
+Complete log: /home/severinmeo/Python-Portfolio/snakemake-medium/.snakemake/log/2022-07-09T141233.696185.snakemake.log

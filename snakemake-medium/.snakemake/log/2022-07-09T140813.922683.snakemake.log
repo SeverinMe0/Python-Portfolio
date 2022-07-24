@@ -1,0 +1,4 @@
+TypeError in line 1 of /home/severinmeo/Python-Portfolio/snakemake-medium/Snakefile:
+can only concatenate str (not "int") to str
+  File "/home/severinmeo/Python-Portfolio/snakemake-medium/Snakefile", line 1, in <module>
+  File "/home/severinmeo/Python-Portfolio/snakemake-medium/Snakefile", line 1, in <listcomp>

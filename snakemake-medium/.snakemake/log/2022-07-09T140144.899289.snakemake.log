@@ -1,0 +1,4 @@
+Building DAG of jobs...
+MissingInputException in line 1 of /home/severinmeo/Python-Portfolio/snakemake-medium/Snakefile:
+Missing input files for rule test:
+snakemake_test_data.csv

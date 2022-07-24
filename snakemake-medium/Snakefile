@@ -1,0 +1,7 @@
+rule test:
+    input:
+        df = "./data/snakemake_test_data.csv"
+    output:
+        f = "./plot/snakemake_test_plot.png"
+    shell:
+        "python3 snakemake_test.py -c {input.df} -o {output.f} -p "
